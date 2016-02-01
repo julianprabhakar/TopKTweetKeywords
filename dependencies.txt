@@ -1,0 +1,1 @@
+There are NO explicit dependencies. Twitter jars are included in the lib folder

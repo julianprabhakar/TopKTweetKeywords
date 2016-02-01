@@ -16,3 +16,11 @@ NOTE:: TOP-K WILL BE PRINTED WHENEVER THERE IS A MODIFICATION TO IT, (UPDATION, 
 
 NOTE:: FOR THE LOGIC, PLEASE CHECK THE DOCUMENTATION
 
+Assumptions:
+
+1) The sliding window is in terms of number of tweets
+
+2) The authentication details and data is entered correctly
+
+3) This top-k analysis will run continuously. It needs to be terminated using Ctrl+c
+

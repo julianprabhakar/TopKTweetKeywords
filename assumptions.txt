@@ -1,4 +1,0 @@
-Assumptions:
-1) The sliding window is in terms of number of tweets
-2) The authentication details and data is entered correctly
-3) This top-k analysis will run continuously. It needs to be terminated using Ctrl+c
